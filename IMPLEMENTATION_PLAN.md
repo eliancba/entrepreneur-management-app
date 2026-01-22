@@ -16,6 +16,7 @@ Este documento describe la planificación inicial y la estructura de una aplicac
 - Priorizar claridad, estructura y presentación
 
 ## Estructura de Carpetas
+```text
 src/
 ├── assets/         # Imágenes y fuentes
 ├── components/     # Componentes reutilizables de UI
@@ -63,6 +64,7 @@ Entrepreneur Management web application built with React and Vite.
 - Focus on structure, scalability, and presentation
 
 ## Folder Structure
+```text
 src/
 ├── assets/         # Images, fonts
 ├── components/     # Reusable UI components
