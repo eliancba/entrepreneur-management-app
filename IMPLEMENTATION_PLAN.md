@@ -28,7 +28,7 @@ src/
 ├── styles/         # Estilos globales y temas
 ├── utils/          # Funciones auxiliares
 └── App.jsx         # Componente principal de la aplicación
-
+```
 ## Componentes Principales a Implementar
 - Layout general (sidebar + contenido principal)
 - Página de Dashboard
@@ -76,7 +76,7 @@ src/
 ├── styles/         # Global styles and themes
 ├── utils/          # Helper functions
 └── App.jsx         # Main app component
-
+```
 ## Core Components
 - Layout (Sidebar + main content)
 - Dashboard page
