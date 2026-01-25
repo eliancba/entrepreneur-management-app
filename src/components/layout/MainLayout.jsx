@@ -1,13 +1,11 @@
 import { Outlet } from "react-router-dom";
+import Sidebar from "./Sidebar";
 
 function MainLayout() {
     return (
         <div style={{ display: "flex", minHeight: "100vh" }}>
-            <aside style={{ width: "200px", background: "#eee", padding: "1rem" }}>
-                <h3>Sidebar</h3>
-            </aside>
-
-            <main style={{ flex: 1, padding: "1rem" }}>
+            <Sidebar />
+            <main style={{ flex: 1, padding: "20px", backgroundColor: "#fff" }}>
                 <Outlet />
             </main>
         </div>
