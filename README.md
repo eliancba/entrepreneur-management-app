@@ -69,7 +69,7 @@ src/
      dateHelpers.js
      calculations.js
   App.jsx
-
+```
 ---
 
 ## 📦 Instalación

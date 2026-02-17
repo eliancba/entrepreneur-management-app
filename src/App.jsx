@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { useState, useEffect } from "react";
 import MainLayout from "./components/layout/MainLayout";
-import Dashboard from "./pages/dashboard/Dashboard";
+import Dashboard from "./pages/dashboard/dashboard";
 import Projects from "./pages/projects/Projects";
 import ProductsPage from "./pages/productsPage/ProductsPage";
 
