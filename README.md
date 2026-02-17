@@ -8,7 +8,7 @@ Permite administrar productos, registrar ingresos y egresos, visualizar métrica
 
 ## 🚀 Demo
 
-🔗 Agregar aquí el enlace cuando esté desplegada en Vercel.
+🔗 https://entrepreneur-management-apps.vercel.app/
 
 ---
 
